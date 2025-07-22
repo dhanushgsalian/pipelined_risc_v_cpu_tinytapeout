@@ -12,7 +12,7 @@
 */
 
 
-module pipelined_risc_v_cpu #(parameter WIDTH = 15) (clk, rst, out);
+module pipeliend_risc_v_cpu #(parameter WIDTH = 15) (clk, rst, out);
   input clk;
   input rst;
   output [WIDTH:0] out;
