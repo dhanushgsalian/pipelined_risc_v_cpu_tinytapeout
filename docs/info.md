@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This CPU excutes the instruction set which is givein the Program memory. It is a pipelined 4 stage CPU.
+This CPU excutes the instruction set which is givein the Program memory and It is a pipelined 4 stage CPU
 
 ## How to test
 
-By driving the Clk and Reset.
+By driving the Clk and Reset
 
 ## External hardware
 
-No.
+No
