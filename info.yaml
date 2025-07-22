@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "Pipelined_risc_v_cpu"      # Project title
+  title:        "tt_um_pipeliend_risc_v_cpu"      # Project title
   author:       "Dhanush"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "It is a 4 stage pipeline risc-v cpu"      # One line description of what your project does
