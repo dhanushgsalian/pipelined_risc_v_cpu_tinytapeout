@@ -24,6 +24,6 @@ module tt_um_pipelined_risc_v_cpu (
   // List all unused inputs to prevent warnings
     wire _unused = &{ena, clk, rst_n, ui_in, uio_in, 1'b0};
 
-    pipelined_risc_v_cpu  cpu(clk, rst_n, out);
+    pipelined_risc_v_cpu  cpu(clk, rst, out);
 
 endmodule
