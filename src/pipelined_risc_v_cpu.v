@@ -1,4 +1,4 @@
-
+/*
 `include "program_counter.v"
 `include "program_memory.v"
 `include "fetch_stage.v"
@@ -9,7 +9,7 @@
 `include "mux_2_1.v"
 `include "alu.v"
 `include "writeback_stage.v"
-
+*/
 
 
 module pipelined_risc_v_cpu #(parameter WIDTH = 15) (clk, rst, out);
